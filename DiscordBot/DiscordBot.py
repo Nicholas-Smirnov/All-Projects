@@ -76,6 +76,13 @@ async def Add_10(ctx, Number):
     except:
         await ctx.send("Input is not a number!")
     
+#This is a more complex command, however still is very basic in code.
+@client.command()
+async def Reply(ctx, Message):
+    if Message == "Hello":
+        await ctx.send("Hello")
+    elif Message == "Bye":
+        await ctx.send("Bye!")
 
 #Notice! Below your bot, there is a token.
 #Copy your token and paste it inside.
