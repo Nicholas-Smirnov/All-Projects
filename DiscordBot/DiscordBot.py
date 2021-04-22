@@ -38,7 +38,7 @@ import discord
 from discord.ext import commands
 import nest_asyncio
 
-ApplyingNest_Asyncio = nest_asyncio.apply()
+Apply = nest_asyncio.apply()
 
 #You can change the prefix in order to activate the bot.
 client = commands.Bot(command_prefix='!')
@@ -88,9 +88,9 @@ async def Reply(ctx, Message):
 #Copy your token and paste it inside.
 #This is IMPORTANT because your bot will not run!
 
-client.run('YourToken')
+client.run('YourKey')
 
-#When you run your code, you should notice that your discord bot goes online.
+# When you run your code, you should notice that your discord bot goes online.
 #This means that is works!
 
 #Of course, if you want to learn more, go to the official documentation.
