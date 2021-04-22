@@ -6,4 +6,4 @@ Hello, my name is Nicholas Smirnov, and I program in Python, Html, Css, Javascri
 
 ### Competition Calculator
 
-The compeition calculator is a calculator that will 
+The competition calculator is a calculator that will automatically 
