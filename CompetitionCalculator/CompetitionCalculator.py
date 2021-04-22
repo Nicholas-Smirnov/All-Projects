@@ -76,8 +76,6 @@ Parameters = {
     #This will show you the average of all points.
     "Average": True,
     
-    "Stats": False,
-    
     #This will show you the sum of all the points.
     "Sum": True,
     
