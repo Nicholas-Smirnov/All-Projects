@@ -16,6 +16,10 @@ An example of what your table will look like:
 
 Yes, this is a discord bot. This is of course a very simple and very basic tutorial on how to create a bot, however it is enough to create a fun bot. You can fine it [here](https://github.com/PythonCoderNick/Projects/tree/main/DiscordBot/DiscordBot.py).
 
+An example of a basic conversation with the bot (all of these replies are coded manually):
+
+<img width="467" alt="Screen Shot 2021-04-22 at 12 13 44 PM" src="https://user-images.githubusercontent.com/79801331/115748523-3e2b1500-a364-11eb-9f48-3f129f018a12.png">
+
 ### Image Editor
 
 This is an image editor that can edit images based on your preferences. You can always change up anything you want. You can fine it [here](https://github.com/PythonCoderNick/Projects/blob/main/ImageEditor/ImageEditor.py).
