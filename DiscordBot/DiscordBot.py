@@ -81,7 +81,7 @@ async def Add_10(ctx, Number):
 #Copy your token and paste it inside.
 #This is IMPORTANT because your bot will not run!
 
-client.run('ODM0Nzc2MzY4MDgwMzU1MzQ4.YIF0Ew.5o1Jdp6b_pGsMjrqwLuNBoxeWUk')
+client.run('YourToken')
 
 #When you run your code, you should notice that your discord bot goes online.
 #This means that is works!
