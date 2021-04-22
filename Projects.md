@@ -2,5 +2,8 @@
 
 Hello, my name is Nicholas Smirnov, and I program in Python, Html, Css, Javascript, and more. I am here to share some of my projects with you! Hope you enjoy these projects!
 
-## Python
+## Projects written in Python
 
+### Competition Calculator
+
+The compeition calculator is a calculator that will 
