@@ -14,4 +14,4 @@ Yes, this is a discord bot. This is of course a very simple and very basic tutor
 
 ### Image Editor
 
-This is an image editor that can edit images based on your preferences. You can always change up anything you want. This is mostly for creating business images or images that are identical in style. Hope you have fun with this image editor. You can find the image editor in the folder called ImageEditor or [here]()
+This is an image editor that can edit images based on your preferences. You can always change up anything you want. This is mostly for creating business images or images that are identical in style. Hope you have fun with this image editor. You can find the image editor in the folder called ImageEditor or [here](https://github.com/PythonCoderNick/Projects/blob/main/ImageEditor/ImageEditor.py).
