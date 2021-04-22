@@ -10,4 +10,4 @@ The competition calculator is a calculator in which you will alter the teams, th
 
 ### Discord Bot
 
-Yes, this is a discord bot. This is of course a very simple and very basic tutorial and code on how to create a bot, however it is enough to create a fun bot. This discord bot can reply to messages and even work with some messages. The link to the discord bot can be found either in the DiscordBot folder, or [here]()
+Yes, this is a discord bot. This is of course a very simple and very basic tutorial and code on how to create a bot, however it is enough to create a fun bot. This discord bot can reply to messages and even work with some messages. The link to the discord bot can be found either in the DiscordBot folder, or [here](https://github.com/PythonCoderNick/Projects/tree/main/DiscordBot)
