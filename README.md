@@ -23,3 +23,12 @@ An example of a basic conversation with the bot (all of these replies are coded 
 ### Image Editor
 
 This is an image editor that can edit images based on your preferences. You can always change up anything you want. You can fine it [here](https://github.com/PythonCoderNick/Projects/blob/main/ImageEditor/ImageEditor.py).
+
+This is the old image.
+
+<img width="500" src = "https://user-images.githubusercontent.com/79801331/115748875-94985380-a364-11eb-916e-7201f1b5c5b7.jpeg">
+
+This is the new image.
+
+<img width="500" src = "https://user-images.githubusercontent.com/79801331/115749522-2b651000-a365-11eb-8da8-cfe6e4626efa.png">
+
